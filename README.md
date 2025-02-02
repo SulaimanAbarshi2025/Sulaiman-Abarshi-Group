@@ -1,2 +1,16 @@
 # Sulaiman-Abarshi-Group
 This repository is a collaborative platform for sharing code, tools, and resources related to bioinformatics  projects.
+
+Introduction to Bioinformatics
+Bioinformatics as a combined discipline of fields including computer science, mathematics and biology. It understanding is used to analyze, visualize and interpret of biological data with the use of computerized tools and step to understand and drive out significant informations. Bioinformatics introduce students to the fundamental principles and techniques such as genomics, proteomics, structural bioinformatics, etc. Bioinformatics aims to identify patterns and trends within large data, development of computerized models and development of algorithm through analysation and interpretation of data.
+
+About The Group
+Frederick Sanger group are 400level student from the department of human anatomy, saadu zungur university bauchi. we are committed to studying and understanding bioinformatics as a whole together with it what constitutes it, i.e the aims, key application, used of common computetical tools and techniques, and other fields in relation to it.
+
+The Contributors include;
+1 Hassana Muhammad saleh( team leader) 
+2 Sulaiman abarshi 
+3 Alhaji Hassan hashimu 
+4 Abdulkadir ya'u 
+5 Adamu usman mai 
+6 Balkisu Ibrahim sanda
